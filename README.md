@@ -1,1 +1,1 @@
-# Diabetes-Prediction
+# Diabetes-Prediction 使用django框架嵌入深度学习模型的二型糖尿病预测的一个专家系统
